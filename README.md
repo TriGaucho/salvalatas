@@ -1,5 +1,7 @@
 # O que é o Salva Latas
 
+![Salva_latas](https://github.com/TriGaucho/salvalatas/blob/master/imgs/SL%20coralvertical_Prancheta%201%20co%CC%81pia%203.png?raw=true)
+
 É um canal criado exclusivamente para dar aos protetores e adotantes o suporte necessário na hora de encontrar o par ideal!
 .
 Quer ADOTAR, mas não sabe exatamente qual o pet ideal para você? Te ajudamos!
