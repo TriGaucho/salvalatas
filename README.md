@@ -1,27 +1,34 @@
-# Salvalatas
+# O que é o Salva Latas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+É um canal criado exclusivamente para dar aos protetores e adotantes o suporte necessário na hora de encontrar o par ideal!
+.
+Quer ADOTAR, mas não sabe exatamente qual o pet ideal para você? Te ajudamos!
+.
+Quer RESGATAR, mas não sabe por onde começar? Te orientamos!
+.
+Já tem muitos animais ABRIGADOS, mas não consegue dar vazão por falta de ajuda? Estamos aqui!
 
-## Development server
+# Qual o papel do sistema Salva Latas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O sistema serve como site institucional da ong e ferramenta para intermediar o encontro de adotantes com seus companheiros animais.
 
-## Code scaffolding
+# O que sistema precisa:
+>>1. CRUD dos animais:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Dados dos animais e qual a instituição/protetor ques esta com o animal.
 
-## Build
+>>2. CRUD de instituições/protetor:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Dados das intituições ou pessoas que resgatam animais.
 
-## Running unit tests
+>>3. CRUD de voluntarios:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Pessoas que auxiliam a Salva Latas, fotografos e auxiliares.
 
-## Running end-to-end tests
+>>4. CRUD de Interessados:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Pessoas que preenchem formulario de interesse no sistema e serão contatadas pelas volutarias.
 
-## Further help
+>>5. Questionario de adoção
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Um questionario que identifica o perfil do Interessado para propor animais em adoção.
