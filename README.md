@@ -34,3 +34,7 @@ Pessoas que preenchem formulario de interesse no sistema e serão contatadas pel
 >>5. Questionario de adoção
 
 Um questionario que identifica o perfil do Interessado para propor animais em adoção.
+
+# Padrão Heroku
+O Padrão que deverá ser adotado pelo backend, facilitando assim hospedagem no Heroku:
+https://12factor.net/pt_br/
