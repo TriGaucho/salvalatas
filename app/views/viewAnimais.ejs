@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+	<html lang="pt-br">
+		<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+			<title>Animais</title>
+		</head>
+	<body>
+
+		<h1>Animais</h1>
+
+		<table>
+			<tr>
+				<td>ID</td>
+				<td>Tipo</td>
+				<td>Nome</td>
+				<td>Idade</td>
+			</tr>
+			<% //Inclusão de bloco JavaScript %> 
+			<% for(var i = 0; i < animais.length; i++) { %>
+				<tr>
+					<td><%= animais[i].id_animal %></td>
+					<td><%= animais[i].tipo_animal %></td>
+					<td><%= animais[i].nome_animal %></td>
+					<td><%= animais[i].idade %></td>
+				</tr>
+			<% } //fim FOR%> 
+		</table>
+
+	</body>
+</html>

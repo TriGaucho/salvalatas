@@ -1,0 +1,24 @@
+{
+  "name": "salvalatas",
+  "version": "1.0.0",
+  "description": "![Salva_latas](https://github.com/TriGaucho/salvalatas/blob/master/imgs/SL%20coralvertical_Prancheta%201%20co%CC%81pia%203.png?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriGaucho/salvalatas.git"
+  },
+  "author": "Diogo Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriGaucho/salvalatas/issues"
+  },
+  "homepage": "https://github.com/TriGaucho/salvalatas#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
